@@ -1,6 +1,6 @@
-<h1>  [翻译] And When the Earth Shall Claim Your Limbs </h1>
-<h2> words_without </h2>
-<h3> Translation by AlllltheFish </h3>
+<h2>  [翻译] And When the Earth Shall Claim Your Limbs </h2>
+<h4> words_without </h4>
+<h4> Translation by AlllltheFish </h4>
 
 <hr />
 

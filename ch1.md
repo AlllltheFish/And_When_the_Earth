@@ -313,4 +313,6 @@
 <div> Translator Notes: </div>
 注1：原文为Sayyid Baqir，同理后文出现的村民分别为Sayyid Hamid, Sayyid Maram等等。然而这几位不像是圣裔，Sayyid在这里应该是个一般的尊称。我不知道国内穆斯林有没有对应的一般尊称词可以使用，就译为巴吉尔先生之类了。<br />
 注2：原文为Ahki。<br />
-注3：原文为Inshallah。
+注3：原文为Inshallah。<br/>
+<p> </p>
+[下一章](ch2.md)

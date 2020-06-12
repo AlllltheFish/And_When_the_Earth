@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - ch1.md
+  - ch2.md
+  - ch3.md
+  - ch4.md
+  - ch5.md
+  - ch6.md
+  - ch7.md
+  - ch8.md
+  - ch9.md
+  - ch_10.md
+  - ch_11.md
+  - ch_12.md
+  - ch_13.md
+  - ch_14.md

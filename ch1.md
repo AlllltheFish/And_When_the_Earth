@@ -316,4 +316,4 @@
 注3：原文为Inshallah。<br/>
 <p> </p>
 
-<p align="center">[下一章](./ch2.md)</p>
+[下一章]

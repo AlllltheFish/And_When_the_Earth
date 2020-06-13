@@ -1,9 +1,11 @@
 <h2>  [翻译][AM]And When the Earth Shall Claim Your Limbs </h2>
 <h4> words_without </h4>
 <h4> Translation by AlllltheFish </h4>
-
+Fandom: Assassin's Creed <br/>
+Pairing: Altair Ibn-La'Ahad/Malik Al-Sayf <br/>
+Rating: M <br/>
 <hr />
-<p align="center"><strong><em>目录</em></strong></p>
+<p align="center"><strong>目录</strong></p>
 
 [序幕 光荣的工作](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch1.md) <br/>
 [第一卷第一章 黑夜与铁骑](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch2.md)  <br/>

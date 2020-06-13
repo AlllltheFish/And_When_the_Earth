@@ -4,6 +4,7 @@
 Fandom: Assassin's Creed <br/>
 Pairing: Altair Ibn-La'Ahad/Malik Al-Sayf <br/>
 Rating: M <br/>
+Summary: 在他们的村庄被袭击后，马利克和卡达尔成了走投无路的孤儿，被阿尔穆林收留。大导师的明星学生阿泰尔对此并不开心。尽管马利克只关心他弟弟的安危…… <br/>
 <hr />
 <p align="center"><strong>目录</strong></p>
 
@@ -21,3 +22,7 @@ Rating: M <br/>
 [第一卷第十一章 复仇的律令](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch_12.md)  <br/>
 [第一卷第十二章 伤人害命的生意](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch_13.md)  <br/>
 [第一卷第十三章 小动物](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch_14.md)  <br/>
+
+<hr/>
+[AO3阅览地址](https://archiveofourown.org/works/18676750?view_full_work=true)
+[英文原文链接](https://archiveofourown.org/works/1529135?view_full_work=true)

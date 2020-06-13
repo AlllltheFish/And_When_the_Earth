@@ -24,5 +24,8 @@ Summary: 在他们的村庄被袭击后，马利克和卡达尔成了走投无�
 [第一卷第十三章 小动物](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch_14.md)  <br/>
 
 <hr/>
+
 [AO3阅览地址](https://archiveofourown.org/works/18676750?view_full_work=true)
+
 [英文原文链接](https://archiveofourown.org/works/1529135?view_full_work=true)
+

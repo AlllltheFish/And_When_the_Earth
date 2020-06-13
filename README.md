@@ -7,11 +7,9 @@ Rating: M <br/>
 Summary: 在他们的村庄被袭击后，马利克和卡达尔成了走投无路的孤儿，被阿尔穆林收留。大导师的明星学生阿泰尔对此并不开心。尽管马利克只关心他弟弟的安危…… <br/>
 <hr />
 
-h3{
-    text-align:center;
-}
 
-<h3><center>目录</center></h3>
+
+<h3{text-align:center;}><center>目录</center></h3>
 
 [序幕 光荣的工作](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch1.md) <br/>
 [第一卷第一章 黑夜与铁骑](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch2.md)  <br/>

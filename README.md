@@ -9,7 +9,7 @@ Summary: 在他们的村庄被袭击后，马利克和卡达尔成了走投无�
 
 
 
-<h3{text-align:center;}><center>目录</center></h3>
+<center>目录</center>
 
 [序幕 光荣的工作](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch1.md) <br/>
 [第一卷第一章 黑夜与铁骑](https://github.com/AlllltheFish/and_when_the_earth/blob/master/ch2.md)  <br/>
